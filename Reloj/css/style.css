@@ -1,0 +1,27 @@
+#reloj{
+    font-family: sans-serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 1px black;
+    color:beige;
+}
+
+.reloj-container{
+    background-color: rgb(111, 29, 204);
+    padding: 25px;
+    max-width: 250px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+#date{
+    letter-spacing: 7px;
+    font-size: 20px;
+}
+
+.animar{
+    border-color: rgb(0,0,0);
+    border-style: solid;
+    border-radius: 5px;
+}

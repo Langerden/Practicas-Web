@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario Completo</title>
+    <link rel="stylesheet" href="/estilos/style.css">
+</head>
+<body>
+    <h1>Formulario en HTML</h1>
+    <form>
+        <fieldset>
+            <legend> <b>Datos Persona:</b> </legend>
+            
+            <!-- Disabled and readonly -->
+            <label for="idPersona">Id Persona: </label><br>
+            <input type="text" id="idPersona" value="100" name="idPersona" readonly><br>
+            
+            <label for="rolPersona">Rol: </label><br>
+            <input type="text" disabled="true" id="rolPersona" value="Gerente" name="rolPersona"><br>
+
+            <!-- Input hidden -->
+            <input type="hidden" name="sistema" id="sistema" value="SA">
+            
+            <!-- Input text -->
+            <label for="name">Nombre: </label><br>
+            <input type="text" id="name" required="true" name="nombre" placeholder="Escribe tu nombre"><br>
+            <label for="lastname">Apellido: </label> <br>
+            <input type="text" id="lastname" required="true" name="apellido" placeholder="Escribe tu apellido"> <br>
+            
+            <!-- Input password -->
+            <label for="password">Constraseña: </label> <br>
+            <input type="password" id="password" required="true" name="password" placeholder="Escribe la contraseña"> <br>       
+            
+            <!-- Input email -->
+            <label for="email">Correo electronico: </label> <br>
+            <input type="email" id="email" required="true" name="email" placeholder="Escribe el correo electronico"> <br>
+
+            <!-- Input number -->
+            <label for="edad">Edad: </label> <br>
+            <input type="number" id="edad" required="true" name="edad" placeholder="Escribe su edad"> <br>
+
+            <!-- Input radio -->
+            <label>Género</label> <br>        
+            <input type="radio" id="fem"  name="genero" value="femenino">
+            <label for="fem">Femenino</label> <br>
+            <input type="radio" id="masc" name="genero" value="masculino">
+            <label for="masc">Masculino</label>  <br>  <br>
+
+            <!-- Input checkbox -->
+            <label>Idiomas: </label> <br>        
+            <input type="checkbox" id="ingles"  name="idioma" value="ingles">
+            <label for="ingles">Ingles</label> <br>
+            <input type="checkbox" id="aleman" name="idioma" value="aleman">
+            <label for="aleman">Aleman</label>  <br>
+            <input type="checkbox" id="chino" name="idioma" value="chino">
+            <label for="chino">Chino</label><br><br>    
+
+            <!-- Select / Listado de opciones -->
+            <label for="juegos">Juegos:</label> <br>   
+            <select name="juego" id="juegos">
+                <!-- multiple="true"> -->
+                <option value="kh">Kingdom Hearts</option>
+                <option value="ff">Final Fantasy</option>
+                <option value="gow" selected="true">God of War</option>
+                <option value="mario">Mario Bros</option>
+                <option value="dmc">Devil May Cry 5</option>
+            </select> <br>   <br>   
+
+            <!-- Text area -->
+            <label for="coment">Comentarios:</label> <br>   
+            <textarea name="coment" id="coment" cols="30" rows="5"></textarea>            
+            <div> <br>
+                <input type="submit" value="Enviar">
+                <input type="reset" value="Restablecer">
+            </div>
+        </fieldset>
+    </form>
+</body>
+</html>
