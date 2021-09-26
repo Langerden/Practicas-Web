@@ -1,0 +1,15 @@
+img{
+    width: 100%;
+    height: 19vw;
+    object-fit: cover;
+}
+
+.card-group, form{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card{
+    margin-left: 7px;
+    margin-right: 7px;
+}
