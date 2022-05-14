@@ -1,0 +1,98 @@
+[
+    {
+      "signo": "Aries",
+      "caracteristicas": "Aries expresa lo que piensa y siente de manera franca y directa. Los Aries son líderes natos, son entusiastas y se mueven con rapidez. Son personas asertivas e idealistas, con un fuerte ego, no son sutiles y cuando algo les molesta lo demostraran de manera fuerte. Les encanta la competencia, su objetivo es ganar, necesitan una vida dinámica.",
+      "imagen": "aries.png",
+      "elemento": "Fuego",
+      "color": "Rojo",
+      "numero": 1
+    },
+    {
+      "signo": "Tauro",
+      "caracteristicas": "Tauro son personas que requieren de la rutina y la seguridad, son extremadamente fiables, son los más trabajadores del zodiaco, pues el deber y la lealtad son cualidades que valoran enormemente. Disfruta de las cosas buenas de la vida, siempre está buscando aquello que le genere placer, necesita sentir esa conexión con su cuerpo.",
+      "imagen": "tauro.png",
+      "elemento": "Tierra",
+      "color": "Rosa, Verde Oscuro",
+      "numero": 1
+    },
+    {
+      "signo": "Geminis",
+      "caracteristicas": "Los Géminis tienen una personalidad dual, brillante y encantadora, comunicativa y expresiva, pero al siguiente momento pueden ser malhumorados y crueles. Son sociables y charlatanes. Tienen un toque de niños en su personalidad. Tienen un excelente sentido del humor.",
+      "imagen": "geminis.png",
+      "elemento": "Aire",
+      "color": "Amarillo, Grises",
+      "numero": 1
+    },
+    {
+      "signo": "Cancer",
+      "caracteristicas": "Cáncer es imaginativo y sensible, el mundo de los sueños siempre está presente, y ningún otro signo es capaz de acceder a él con tanta facilidad. Cáncer es introvertido por naturaleza, y prefiere la tranquilidad de la contemplación, en la cual se encuentra con los más sutiles y delicados aspectos de la vida.",
+      "imagen": "cancer.png",
+      "elemento": "Agua",
+      "color": "Gris",
+      "numero": 1
+    },
+    {
+      "signo": "Leo",
+      "caracteristicas": "A Leo le gusta posar, ser adulado y reconocido. Es el líder natural, de naturaleza encantadora, benevolente y con un espíritu infantil. Leo se cree especial y está dispuesto a ir muy lejos para recibir un trato especial. Deberá adquirir autoridad y cuanto más lo consiga, más control tendrá sobre su vida y lograr su independencia.",
+      "imagen": "leo.png",
+      "elemento": "Fuego",
+      "color": "Dorado, Naranja, Rojo",
+      "numero": 1
+    },
+    {
+      "signo": "Virgo",
+      "caracteristicas": "Virgo es especialmente adaptable a las circunstancias y sabe sacar el mejor provecho de ellas. Virgo puede centrarse demasiado en los detalles. Le resultará difícil entender otros puntos de vista distintos al suyo, volviéndose exigente y de mente cerrada. Corre el riesgo de entregarse a las necesidades de otros ignorando las suyas.",
+      "imagen": "virgo.png",
+      "elemento": "Tierra",
+      "color": "Amarillo, Blanco",
+      "numero": 1
+    },
+    {
+      "signo": "Libra",
+      "caracteristicas": "Libra no es el signo más equilibrado del Zodiaco, pues al ser tan indeciso, puede moverse drásticamente entre los extremos o no tomar ninguna decisión. Con su carácter encantador y sociable, aman agradar a los demás y prefieren la armonía. Tiene un carácter duro en su interior y necesita formarse una idea objetiva de las cosas. ",
+      "imagen": "libra.png",
+      "elemento": "Aire",
+      "color": "Verde Claro, Azul Claro",
+      "numero": 1
+    },
+    {
+      "signo": "Escorpio",
+      "caracteristicas": "Escorpio tiene una gran intensidad en sus emociones, independientemente de cómo se sientan por dentro, pueden mostrar una calma absoluta.  Interesados por cualquier cosa que parezca profunda o misteriosa y por los temas tabú, su interés se despierta allí donde otros se horrorizan o disgustan. ",
+      "imagen": "escorpio.png",
+      "elemento": "Agua",
+      "color": "Rojo Oscuro",
+      "numero": 1
+    },
+    {
+      "signo": "Sagitario",
+      "caracteristicas": "Para Sagitario la experiencia es más importantes que el propio conocimiento. Necesitan convicciones, y arrastran a otros en sus oleadas de entusiasmo. Les falta tacto para hablar, su naturaleza franca, hace que su personalidad pueda ofender a otros. Algunos de sus comportamientos son impulsivos, prefieren actuar a no hacerlo.",
+      "imagen": "sagitario.png",
+      "elemento": "Fuego",
+      "color": " Morado, Lila, Púrpura",
+      "numero": 1
+    },
+    {
+      "signo": "Capricornio",
+      "caracteristicas": "Los Capricornio son entregados, trabajadores duros y soportan todo a fin de conseguir lo que persiguen. Son también disciplinados y les gusta llegar al corazón de las cosas, contribuyendo a mantener el orden y estructura sociales.",
+      "imagen": "capricornio.png",
+      "elemento": "Tierra",
+      "color": "Negro, Verde Oscuro, Marrón",
+      "numero": 1
+    },
+    {
+      "signo": "Acuario",
+      "caracteristicas": "Los Acuario tienen una amplia perspectiva de la vida donde cada uno es parte de una gran comunidad, de la que sienten que forman parte y la cual les permite conseguir mucho más, como parte de un todo, de lo que podrían alcanzar por sí solos.",
+      "imagen": "acuario.png",
+      "elemento": "Aire",
+      "color": " Azul, Índigo, Amarillo",
+      "numero": 1
+    },
+    {
+      "signo": "Piscis",
+      "caracteristicas": "Piscis simboliza al individuo que quiere ir más allá de las limitaciones humanas. Esta dotado de mucha imaginación e intuición y suelen ser nostálgicos. La espiritualidad y la religión tienen un papel importante en sus vidas.",
+      "imagen": "piscis.png",
+      "elemento": "Agua",
+      "color": "Verde Mar, Azul Violeta",
+      "numero": 1
+    }
+  ]

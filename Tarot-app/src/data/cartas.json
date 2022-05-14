@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "The Flower",
+    "descripcion": "Símbolo de lo fugaz y transitorio. Necesidad de encontrar otra alma que colme nuestras necesidades afectivas. Haz dejado pasar una buena oportunidad.",
+    "turned": false
+  },
+  {
+    "id": 2,
+    "nombre": "The Dark",
+    "descripcion": "Símbolo de la muerte, el luto y las tinieblas. Te encuentras en una situación de tristeza, desesperanza, depresiva. Necesitas el apoyo de una persona que te ayude a encontrar una solución.",
+    "turned": false
+  },
+  {
+    "id": 3,
+    "nombre": "The Wood",
+    "descripcion": "Simboliza la materia prima. Estuviste o estas en un trabajo muy pesado y mal remunedaro. Sueñas con un futuro lleno de riquezas y satisfacciones pero en ese trabajo no lo conseguiras.",
+    "turned": false    
+  },
+  {
+    "id": 4,
+    "nombre": "The Light",
+    "descripcion": "Simboliza el conocimiento, la revelación, la claridad. Estas en un proceso de confianza en ti mismo o estas a punto de descubrir algo que lleva oculto hace mucho tiempo.",
+    "turned": false
+  },
+  {
+    "id": 5,
+    "nombre": "The Sleep",
+    "descripcion": "Significa falta de atención. Estas a la espera de una guía o señal que te llevara a una nueva posición.",
+    "turned": false
+  },
+  {
+    "id": 6,
+    "nombre": "The Mist",
+    "descripcion": "Simboliza lo indeterminado, una etapa de transición entre dos estados. Tienes miedo al futuro, la incertidumbre por lo que todavía tiene que llegar y no sabes cómo será.",
+    "turned": false
+  },
+  {
+    "id": 7,
+    "nombre": "The Dash",
+    "descripcion": "Significa destino cambiante y de la necesidad de tomar medidas para asegurar tu destino. Pasarás por eventos inesperados que podrían tener un efecto en el resultado de una situación particular.",
+    "turned": false
+  },
+  {
+    "id": 8,
+    "nombre": "The Libra",
+    "descripcion": "Significa Indecisión, injusticia. Sé imparcial y objetivo. Lucha contra las injusticias. Debes tomar una decisión que creas importante y no sabes por que lado inclinarte.",
+    "turned": false
+  },
+  {
+    "id": 9,
+    "nombre": "The Nothing",
+    "descripcion": "Significa intelecto. Debes aclarar tus ideas y confía en tu memoria y conocimientos. Muestra tus aptitudes.",
+    "turned": false
+  },
+  {
+    "id": 10,
+    "nombre": "The Wind",
+    "descripcion": "Significa acontecimientos importantes, tempestad. Tendras grandes cambios económicos, profesionales o sentimentales pero tendrás muchoa inconsitencia, ten cuidado y piensalo bien.",
+    "turned": false
+  },
+  {
+    "id": 11,
+    "nombre": "The Time",
+    "descripcion": "Significa el tiempo, el transcurrir de nuestra vida. Debes acelerar tu ritmo diario y tomar decisiones sin tanta indecision. ",
+    "turned": false
+  },
+  {
+    "id": 12,
+    "nombre": "The Erase",
+    "descripcion": "Significa la limpieza, la purga. Debes purgar tus ideas y pensamientos. Elimina las ideas que no te sirvan y deja de esperar que ocurra algún milagro que te ayude a salir de una situacion insoluble.",
+    "turned": false
+  },
+  {
+    "id": 13,
+    "nombre": "The Fly",
+    "descripcion": "Significa el vuelo, el movimiento. Deseas escapar de las situaciones y problemas de tu vida diaria y superarlas como sea.",
+    "turned": false
+  },
+  {
+    "id": 14,
+    "nombre": "The Earth",
+    "descripcion": "Significa la tierra, el suelo. Debes asegurar tus ideas y pensamientos. Se trata de la necesidad de adentrarse en el mundo y conocerlo, dejar de fantasear .",
+    "turned": false
+  },
+  {
+    "id": 15,
+    "nombre": "The Twin",
+    "descripcion": "Significa un destino cambiante reflejado en alguien mas. Ves la necesidad de tomar medidas para asegurar tu destino y no tener un efecto negativo en el resultado de una situación particular como otros.",
+    "turned": false
+  }
+]
