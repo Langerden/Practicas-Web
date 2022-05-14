@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.child {
+  margin-left: 10px;
+  padding: 0% 10% 10% 0%;
+  background-color: red;
+  height: 20px;
+  width: 20px;  
+}
+
+#black {
+  background-color: black;
+}
+
+label {
+  font-size: 20px;
+  color: yellow;
+}
+
+#white {
+  color: white;
+}

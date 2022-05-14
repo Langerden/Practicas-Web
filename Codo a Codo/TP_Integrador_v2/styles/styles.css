@@ -1,0 +1,85 @@
+html,
+body {
+  height: 100%;
+}
+
+#enviar {
+  padding: 10px;
+  font-size: 18px;
+  background-color: rgba(144, 184, 12, 0.8);
+}
+
+#image-bsas-content {
+  float: right;
+  color: white;
+  text-align: right;
+  margin-right: 120px;
+  margin-top: 250px;
+}
+
+.card-group {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.card {
+  margin: 0% 2%;
+}
+
+.container-fluid {
+  margin-top: 2%;
+  padding: 0px;
+}
+
+.img-fluid {
+  margin-left: -15px;
+}
+
+.content-text {
+  padding-left: 10px;
+}
+
+.container-content {
+  color: white;
+  background-color: #2d3235;
+  padding-top: 20px;
+  margin-left: -25px;
+}
+
+.orador {
+  font-size: 12px;
+}
+
+.navbar-text {
+  text-align: center;
+  text-decoration: none;
+}
+
+.nav-item {
+  padding-top: 10px;
+  margin: 0px 20px;
+}
+
+.mask {
+  margin-left: -150px;
+  margin-top: -50px;
+  height: 75vh;
+}
+
+.navbar-light {
+  background-color: #1d455b;
+}
+
+.footer{
+    color: white !important;
+}
+
+.seniority{
+  text-align: center;
+  padding-top: 1.5%;
+  
+}
+
+#descuento{
+  font-size: 20px;
+}
